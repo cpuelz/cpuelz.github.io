@@ -16,7 +16,7 @@ C. Puelz, S. Acosta, B. Riviere, D. Penny, K. Brady, and C.G. Rusin. Computers i
 * "Cardiovascular mechanics in the early stages of pulmonary hypertension: a computational study."   
 S. Acosta, C. Puelz, B. Riviere, D. Penny, K. Brady, and C.G. Rusin. Biomechanics and Modeling in Mechanobiology, 16(6), pp. 2093-2112, 2017. [link-to-journal](https://link.springer.com/article/10.1007/s10237-017-0940-4).
 * "Convergence of IPDG for coupled time-dependent Navier-Stokes and Darcy equations."  
-N. Chabaane, V. Girault, C. Puelz, and B. Riviere. Journal of Computational and Applied Mathematics, 324, pp. 25-48, 2017. [link-to-journal](href="http://www.sciencedirect.com/science/article/pii/S0377042717301577).
+N. Chabaane, V. Girault, C. Puelz, and B. Riviere. Journal of Computational and Applied Mathematics, 324, pp. 25-48, 2017. [link-to-journal](http://www.sciencedirect.com/science/article/pii/S0377042717301577).
 * "Comparison of reduced models for blood flow using Runge-Kutta discontinuous Galerkin methods."   
 C. Puelz, B. Riviere, S. Canic, and C.G. Rusin. Applied Numerical Mathematics, 115, pp. 114-141, 2017. [link-to-journal](http://www.sciencedirect.com/science/article/pii/S0168927417300077), [link-to-arXiv:1511.05277](http://arxiv.org/abs/1511.05277).    
 * "Numerical method of characteristics for one-dimensional blood flow."   
