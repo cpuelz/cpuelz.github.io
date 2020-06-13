@@ -1,7 +1,4 @@
-//@import "cpuelz.github.io";
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "cpuelz.github.io";
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 html {
