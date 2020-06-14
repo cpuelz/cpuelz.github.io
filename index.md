@@ -1,5 +1,5 @@
 ## About me
-My interests are in mathematical physiology and medicine and numerical methods.  Many of my applications are related to abnormal physiologies and interventions for congenital defects in the human cardiovascular system.  
+My interests are in mathematical physiology and medicine and numerical methods.  Many of the applications I work on are related to abnormal physiologies and interventions for congenital defects in the human cardiovascular system.  
 
 Here is my [cv](cpuelzcv2.pdf) and my [google scholar page](https://scholar.google.com/citations?user=1ZWd9TIAAAAJ&hl=en).
 
