@@ -1,10 +1,3 @@
-## About me
-My interests are in mathematical physiology, numerical methods, and the cardiovascular system.  
-
-Here is my [cv](cpuelzcv2.pdf) and my [google scholar page](https://scholar.google.com/citations?user=1ZWd9TIAAAAJ&hl=en).
-
-My twin brother David is a principal researcher at the University of Chicago.  Here is his [website](https://www.davidpuelz.com/).
-
 ## Publications
 1. "Models for plasma kinetics during simultaneous therapeutic plasma exchange and extracorporeal membrane oxygenation." C. Puelz, Z. Danial, J. Marinaro, J.S. Raval, B.E. Griffith, C.S. Peskin. submitted, 2020. [link-to-arXiv:2006.06100](https://arxiv.org/abs/2006.06100).
 2. "Mathematical modeling of the impact of recirculation on exchange kinetics in tandem extracorporeal membrane oxygenation and therapeutic plasma exchange." C. Puelz, J. Marinaro, Y.A. Park, B.E. Griffith, C.S. Peskin, J.S. Raval. Journal of Clinical Apheresis, accepted, 2020.   
