@@ -1,38 +1,40 @@
 ## Publications and preprints
+1. A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.  
+R. Masri, C. Puelz, B. Riviere.  
+submitted, 2020.
 1. [Models for plasma kinetics during simultaneous therapeutic plasma exchange and extracorporeal membrane oxygenation](https://arxiv.org/abs/2006.06100).   
 C. Puelz, Z. Danial, J. Marinaro, J.S. Raval, B.E. Griffith, C.S. Peskin.   
 submitted, 2020. <!--[link-to-arXiv:2006.06100](https://arxiv.org/abs/2006.06100).-->
-2. Mathematical modeling of the impact of recirculation on exchange kinetics in tandem extracorporeal membrane oxygenation and therapeutic plasma exchange.   
+1. Mathematical modeling of the impact of recirculation on exchange kinetics in tandem extracorporeal membrane oxygenation and therapeutic plasma exchange.   
 C. Puelz, J. Marinaro, Y.A. Park, B.E. Griffith, C.S. Peskin, J.S. Raval.   
 *Journal of Clinical Apheresis*, accepted, 2020.   
-3. [A sharp interface method for an immersed viscoelastic solid](https://www.sciencedirect.com/science/article/pii/S0021999119309222).   
+1. [A sharp interface method for an immersed viscoelastic solid](https://www.sciencedirect.com/science/article/pii/S0021999119309222).   
 C. Puelz and B.E. Griffith.   
 *Journal of Computational Physics*, 409, 2020. <!--[link-to-arXiv:1902.02424](https://arxiv.org/abs/1902.02424), [link-to-journal](https://www.sciencedirect.com/science/article/pii/S0021999119309222).-->  
-4. [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://arxiv.org/abs/1912.09587).   
+1. [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://arxiv.org/abs/1912.09587).   
 R. Masri, C. Puelz, B. Riviere.   
 submitted, 2019. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587).-->  
-5. [A physiological model of the inflammatory-thermal-pain-cardiovascular interactions during a pathogen challenge](https://arxiv.org/abs/1908.07611).   
+1. [A physiological model of the inflammatory-thermal-pain-cardiovascular interactions during a pathogen challenge](https://arxiv.org/abs/1908.07611).   
 A. Dobreva, R. Brady, K. Larripa, C. Puelz, J. Mehlsen, and M. Olufsen.   
 submitted, 2019. <!--[link-to-arXiv:1908.07611](https://arxiv.org/abs/1908.07611).-->  
-6. [A priori error estimates of Adams-Bashforth discontinuous Galerkin methods for scalar nonlinear conservation laws](https://www.degruyter.com/view/j/jnma.2018.26.issue-3/jnma-2017-0011/jnma-2017-0011.xml?format=INT").  
+1. [A priori error estimates of Adams-Bashforth discontinuous Galerkin methods for scalar nonlinear conservation laws](https://www.degruyter.com/view/j/jnma.2018.26.issue-3/jnma-2017-0011/jnma-2017-0011.xml?format=INT").  
 C. Puelz and B. Riviere.   
 *Journal of Numerical Mathematics*, 26(3), pp. 151-172, 2018. <!--[link-to-journal](https://www.degruyter.com/view/j/jnma.2018.26.issue-3/jnma-2017-0011/jnma-2017-0011.xml?format=INT").-->  
-7. [A computational study of the Fontan circulation with fenestration or hepatic vein exclusion](http://www.sciencedirect.com/science/article/pii/S0010482517302834).  
+1. [A computational study of the Fontan circulation with fenestration or hepatic vein exclusion](http://www.sciencedirect.com/science/article/pii/S0010482517302834).  
 C. Puelz, S. Acosta, B. Riviere, D. Penny, K. Brady, and C.G. Rusin.  
 *Computers in Biology and Medicine*, 89, pp. 405-418, 2017. <!--[link-to-journal](http://www.sciencedirect.com/science/article/pii/S0010482517302834).-->
-8. [Cardiovascular mechanics in the early stages of pulmonary hypertension: a computational study](https://link.springer.com/article/10.1007/s10237-017-0940-4).  
+1. [Cardiovascular mechanics in the early stages of pulmonary hypertension: a computational study](https://link.springer.com/article/10.1007/s10237-017-0940-4).  
 S. Acosta, C. Puelz, B. Riviere, D. Penny, K. Brady, and C.G. Rusin.   
 *Biomechanics and Modeling in Mechanobiology*, 16(6), pp. 2093-2112, 2017. <!--[link-to-journal](https://link.springer.com/article/10.1007/s10237-017-0940-4).-->
-9. [Convergence of IPDG for coupled time-dependent Navier-Stokes and Darcy equations](http://www.sciencedirect.com/science/article/pii/S0377042717301577).  
+1. [Convergence of IPDG for coupled time-dependent Navier-Stokes and Darcy equations](http://www.sciencedirect.com/science/article/pii/S0377042717301577).  
 N. Chabaane, V. Girault, C. Puelz, and B. Riviere.   
 *Journal of Computational and Applied Mathematics*, 324, pp. 25-48, 2017. <!--[link-to-journal](http://www.sciencedirect.com/science/article/pii/S0377042717301577).-->
-10. [Comparison of reduced models for blood flow using Runge-Kutta discontinuous Galerkin methods](http://www.sciencedirect.com/science/article/pii/S0168927417300077).  
+1. [Comparison of reduced models for blood flow using Runge-Kutta discontinuous Galerkin methods](http://www.sciencedirect.com/science/article/pii/S0168927417300077).  
 C. Puelz, B. Riviere, S. Canic, and C.G. Rusin.   
 *Applied Numerical Mathematics*, 115, pp. 114-141, 2017. <!--[link-to-journal](http://www.sciencedirect.com/science/article/pii/S0168927417300077), [link-to-arXiv:1511.05277](http://arxiv.org/abs/1511.05277).-->    
-11. [Numerical method of characteristics for one-dimensional blood flow](http://www.sciencedirect.com/science/article/pii/S0021999115002004#).  
+1. [Numerical method of characteristics for one-dimensional blood flow](http://www.sciencedirect.com/science/article/pii/S0021999115002004#).  
 S. Acosta, C. Puelz, B. Riviere, D. Penny, and C.G. Rusin.  
 *Journal of Computational Physics*, 294, pp. 96-109, 2015. <!--[link-to-journal](http://www.sciencedirect.com/science/article/pii/S0021999115002004#), [link-to-arXiv:1411.5574](http://arxiv.org/abs/1411.5574).--> 
-12. [Spectral approximation for quasiperiodic Jacobi operators](http://link.springer.com/article/10.1007/s00020-014-2214-1).  
+1. [Spectral approximation for quasiperiodic Jacobi operators](http://link.springer.com/article/10.1007/s00020-014-2214-1).  
 C. Puelz, M. Embree, and J. Fillman.  
-*Integral Equations and Operator Theory*, 82(4), pp. 533-554, 2015. <!--[link-to-journal](http://link.springer.com/article/10.1007/s00020-014-2214-1)", [link-to-a\
-rXiv:1408.0370](http://arxiv.org/abs/1408.0370).-->
+*Integral Equations and Operator Theory*, 82(4), pp. 533-554, 2015. <!--[link-to-journal](http://link.springer.com/article/10.1007/s00020-014-2214-1)", [link-to-arXiv:1408.0370](http://arxiv.org/abs/1408.0370).-->
