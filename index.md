@@ -5,7 +5,7 @@ submitted, 2020.
 1. [Models for plasma kinetics during simultaneous therapeutic plasma exchange and extracorporeal membrane oxygenation](https://arxiv.org/abs/2006.06100).   
 C. Puelz, Z. Danial, J. Marinaro, J.S. Raval, B.E. Griffith, C.S. Peskin.   
 submitted, 2020. <!--[link-to-arXiv:2006.06100](https://arxiv.org/abs/2006.06100).-->
-1. Mathematical modeling of the impact of recirculation on exchange kinetics in tandem extracorporeal membrane oxygenation and therapeutic plasma exchange.   
+1. [Mathematical modeling of the impact of recirculation on exchange kinetics in tandem extracorporeal membrane oxygenation and therapeutic plasma exchange](https://onlinelibrary.wiley.com/doi/abs/10.1002/jca.21805).   
 C. Puelz, J. Marinaro, Y.A. Park, B.E. Griffith, C.S. Peskin, J.S. Raval.   
 *Journal of Clinical Apheresis*, accepted, 2020.   
 1. [A sharp interface method for an immersed viscoelastic solid](https://www.sciencedirect.com/science/article/pii/S0021999119309222).   
