@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a:hover {   
+   font-weight: initial;
+   color: maroon; 
+}
+
+a.classhead:hover {
+   text-decoration: none; 
+   color: maroon; 
+   font-weight: bold;
+}
