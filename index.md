@@ -16,7 +16,7 @@ R. Masri, C. Puelz, B. Riviere.
 submitted, 2019. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587).-->  
 1. [A physiological model of the inflammatory-thermal-pain-cardiovascular interactions during a pathogen challenge](https://arxiv.org/abs/1908.07611).   
 A. Dobreva, R. Brady, K. Larripa, C. Puelz, J. Mehlsen, and M. Olufsen.   
-submitted, 2019. <!--[link-to-arXiv:1908.07611](https://arxiv.org/abs/1908.07611).-->  
+*Journal of Physiology*, accepted, 2021. <!--[link-to-arXiv:1908.07611](https://arxiv.org/abs/1908.07611).-->  
 1. [A priori error estimates of Adams-Bashforth discontinuous Galerkin methods for scalar nonlinear conservation laws](https://www.degruyter.com/view/j/jnma.2018.26.issue-3/jnma-2017-0011/jnma-2017-0011.xml?format=INT").  
 C. Puelz and B. Riviere.   
 *Journal of Numerical Mathematics*, 26(3), pp. 151-172, 2018. <!--[link-to-journal](https://www.degruyter.com/view/j/jnma.2018.26.issue-3/jnma-2017-0011/jnma-2017-0011.xml?format=INT").-->  
