@@ -5,6 +5,9 @@ submitted, 2020.
 1. [Models for plasma kinetics during simultaneous therapeutic plasma exchange and extracorporeal membrane oxygenation](https://arxiv.org/abs/2006.06100).   
 C. Puelz, Z. Danial, J. Marinaro, J.S. Raval, B.E. Griffith, C.S. Peskin.   
 submitted, 2020. <!--[link-to-arXiv:2006.06100](https://arxiv.org/abs/2006.06100).-->
+1. [A physiological model of the inflammatory-thermal-pain-cardiovascular interactions during a pathogen challenge](https://arxiv.org/abs/1908.07611).   
+A. Dobreva, R. Brady, K. Larripa, C. Puelz, J. Mehlsen, and M. Olufsen.   
+*Journal of Physiology*, accepted, 2021. <!--[link-to-arXiv:1908.07611](https://arxiv.org/abs/1908.07611).-->  
 1. [Mathematical modeling of the impact of recirculation on exchange kinetics in tandem extracorporeal membrane oxygenation and therapeutic plasma exchange](https://onlinelibrary.wiley.com/doi/abs/10.1002/jca.21805).   
 C. Puelz, J. Marinaro, Y.A. Park, B.E. Griffith, C.S. Peskin, J.S. Raval.   
 *Journal of Clinical Apheresis*, accepted, 2020.   
@@ -14,9 +17,6 @@ C. Puelz and B.E. Griffith.
 1. [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://arxiv.org/abs/1912.09587).   
 R. Masri, C. Puelz, B. Riviere.   
 submitted, 2019. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587).-->  
-1. [A physiological model of the inflammatory-thermal-pain-cardiovascular interactions during a pathogen challenge](https://arxiv.org/abs/1908.07611).   
-A. Dobreva, R. Brady, K. Larripa, C. Puelz, J. Mehlsen, and M. Olufsen.   
-*Journal of Physiology*, accepted, 2021. <!--[link-to-arXiv:1908.07611](https://arxiv.org/abs/1908.07611).-->  
 1. [A priori error estimates of Adams-Bashforth discontinuous Galerkin methods for scalar nonlinear conservation laws](https://www.degruyter.com/view/j/jnma.2018.26.issue-3/jnma-2017-0011/jnma-2017-0011.xml?format=INT").  
 C. Puelz and B. Riviere.   
 *Journal of Numerical Mathematics*, 26(3), pp. 151-172, 2018. <!--[link-to-journal](https://www.degruyter.com/view/j/jnma.2018.26.issue-3/jnma-2017-0011/jnma-2017-0011.xml?format=INT").-->  
