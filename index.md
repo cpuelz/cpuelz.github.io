@@ -1,6 +1,6 @@
 ## Publications and preprints
 - Computer models for studying interventions used in treating refractory pulmonary hypertension.   
-S.W. Han, C. Puelz, C.G. Rusin; D.J. Penny; R. Coleman; C.S. Peskin.   
+S.W. Han, C. Puelz, C.G. Rusin, D.J. Penny, R. Coleman, C.S. Peskin.   
 submitted, 2021.
 - A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.  
 R. Masri, C. Puelz, B. Riviere.  
