@@ -1,5 +1,5 @@
 ## Publications and preprints
-- Computer models for studying interventions used in treating refractory pulmonary hypertension.   
+- [Computer models for studying interventions used in treating refractory pulmonary hypertension](https://arxiv.org/abs/2101.12191).   
 S.W. Han, C. Puelz, C.G. Rusin, D.J. Penny, R. Coleman, C.S. Peskin.   
 submitted, 2021.  
 - [Models for plasma kinetics during simultaneous therapeutic plasma exchange and extracorporeal membrane oxygenation](https://arxiv.org/abs/2006.06100).     
