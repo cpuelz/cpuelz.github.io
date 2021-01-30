@@ -5,7 +5,7 @@ submitted, 2021.
 - [Models for plasma kinetics during simultaneous therapeutic plasma exchange and extracorporeal membrane oxygenation](https://arxiv.org/abs/2006.06100).     
 C. Puelz, Z. Danial, J. Marinaro, J.S. Raval, B.E. Griffith, C.S. Peskin.     
 *Mathematical Medicine and Biology*, accepted, 2021. <!--[link-to-arXiv:2006.06100](https://arxiv.org/abs/2006.06100).-->   
-- [A physiological model of the inflammatory-thermal-pain-cardiovascular interactions during a endotoxin challenge](https://arxiv.org/abs/1908.07611).   
+- [A physiological model of the inflammatory-thermal-pain-cardiovascular interactions during a endotoxin challenge](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP280883).   
 A. Dobreva, R. Brady, K. Larripa, C. Puelz, J. Mehlsen, and M. Olufsen.   
 *Journal of Physiology*, accepted, 2021. <!--[link-to-arXiv:1908.07611](https://arxiv.org/abs/1908.07611).-->    
 - A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.  
