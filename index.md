@@ -4,16 +4,16 @@ S.W. Han, C. Puelz, C.G. Rusin, D.J. Penny, R. Coleman, C.S. Peskin.
 submitted, 2021.  
 - A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.   
 R. Masri, C. Puelz, B. Riviere.   
-*Communications on Applied Mathematics and Computation*, accepted, 2021.  
+*Communications on Applied Mathematics and Computation*, 2021.  
 - [Models for plasma kinetics during simultaneous therapeutic plasma exchange and extracorporeal membrane oxygenation](https://arxiv.org/abs/2006.06100).     
 C. Puelz, Z. Danial, J. Marinaro, J.S. Raval, B.E. Griffith, C.S. Peskin.     
-*Mathematical Medicine and Biology*, accepted, 2021. <!--[link-to-arXiv:2006.06100](https://arxiv.org/abs/2006.06100).-->   
+*Mathematical Medicine and Biology*, 2021. <!--[link-to-arXiv:2006.06100](https://arxiv.org/abs/2006.06100).-->   
 - [A physiological model of the inflammatory-thermal-pain-cardiovascular interactions during a endotoxin challenge](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP280883).   
 A. Dobreva, R. Brady, K. Larripa, C. Puelz, J. Mehlsen, and M. Olufsen.   
-*Journal of Physiology*, accepted, 2021. <!--[link-to-arXiv:1908.07611](https://arxiv.org/abs/1908.07611).-->    
+*Journal of Physiology*, 2021. <!--[link-to-arXiv:1908.07611](https://arxiv.org/abs/1908.07611).-->    
 - [Mathematical modeling of the impact of recirculation on exchange kinetics in tandem extracorporeal membrane oxygenation and therapeutic plasma exchange](https://onlinelibrary.wiley.com/doi/abs/10.1002/jca.21805).   
 C. Puelz, J. Marinaro, Y.A. Park, B.E. Griffith, C.S. Peskin, J.S. Raval.   
-*Journal of Clinical Apheresis*, accepted, 2020.   
+*Journal of Clinical Apheresis*, 2020.   
 - [A sharp interface method for an immersed viscoelastic solid](https://www.sciencedirect.com/science/article/pii/S0021999119309222).   
 C. Puelz and B.E. Griffith.   
 *Journal of Computational Physics*, 409, 2020. <!--[link-to-arXiv:1902.02424](https://arxiv.org/abs/1902.02424), [link-to-journal](https://www.sciencedirect.com/science/article/pii/S0021999119309222).-->  
