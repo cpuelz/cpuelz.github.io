@@ -1,7 +1,10 @@
 ## Publications and preprints
 - [Computer models for studying interventions used in treating refractory pulmonary hypertension](https://arxiv.org/abs/2101.12191).   
 S.W. Han, C. Puelz, C.G. Rusin, D.J. Penny, R. Coleman, C.S. Peskin.   
-submitted, 2021.  
+submitted, 2021.
+- [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://arxiv.org/abs/1912.09587).   
+R. Masri, C. Puelz, B. Riviere.   
+*International Journal of Heat and Mass Transfer*, 2021. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587).-->  
 - A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.   
 R. Masri, C. Puelz, B. Riviere.   
 *Communications on Applied Mathematics and Computation*, 2021.  
@@ -17,9 +20,6 @@ C. Puelz, J. Marinaro, Y.A. Park, B.E. Griffith, C.S. Peskin, J.S. Raval.
 - [A sharp interface method for an immersed viscoelastic solid](https://www.sciencedirect.com/science/article/pii/S0021999119309222).   
 C. Puelz and B.E. Griffith.   
 *Journal of Computational Physics*, 409, 2020. <!--[link-to-arXiv:1902.02424](https://arxiv.org/abs/1902.02424), [link-to-journal](https://www.sciencedirect.com/science/article/pii/S0021999119309222).-->  
-- [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://arxiv.org/abs/1912.09587).   
-R. Masri, C. Puelz, B. Riviere.   
-submitted, 2019. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587).-->  
 - [A priori error estimates of Adams-Bashforth discontinuous Galerkin methods for scalar nonlinear conservation laws](https://www.degruyter.com/view/j/jnma.2018.26.issue-3/jnma-2017-0011/jnma-2017-0011.xml?format=INT").  
 C. Puelz and B. Riviere.   
 *Journal of Numerical Mathematics*, 26(3), pp. 151-172, 2018. <!--[link-to-journal](https://www.degruyter.com/view/j/jnma.2018.26.issue-3/jnma-2017-0011/jnma-2017-0011.xml?format=INT").-->  
