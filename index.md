@@ -11,7 +11,7 @@ R. Masri, C. Puelz, B. Riviere.
 - [Models for plasma kinetics during simultaneous therapeutic plasma exchange and extracorporeal membrane oxygenation](https://academic.oup.com/imammb/advance-article-abstract/doi/10.1093/imammb/dqab003/6149285?redirectedFrom=fulltext).     
 C. Puelz, Z. Danial, J. Marinaro, J.S. Raval, B.E. Griffith, C.S. Peskin.     
 *Mathematical Medicine and Biology*, 2021. <!--[link-to-arXiv:2006.06100](https://arxiv.org/abs/2006.06100).-->   
-- [A physiological model of the inflammatory-thermal-pain-cardiovascular interactions during a endotoxin challenge](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP280883).   
+- [A physiological model of the inflammatory-thermal-pain-cardiovascular interactions during an endotoxin challenge](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP280883).   
 A. Dobreva, R. Brady, K. Larripa, C. Puelz, J. Mehlsen, and M. Olufsen.   
 *Journal of Physiology*, 599(5), pp. 1459-1485, 2021.   
 - [Mathematical modeling of the impact of recirculation on exchange kinetics in tandem extracorporeal membrane oxygenation and therapeutic plasma exchange](https://onlinelibrary.wiley.com/doi/abs/10.1002/jca.21805).   
