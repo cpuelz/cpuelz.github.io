@@ -2,15 +2,15 @@
 - [Computer models for studying interventions used in treating refractory pulmonary hypertension](https://arxiv.org/abs/2101.12191).   
 S.W. Han, C. Puelz, C.G. Rusin, D.J. Penny, R. Coleman, C.S. Peskin.   
 submitted, 2021.
-- [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://arxiv.org/abs/1912.09587).   
+- [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://www.sciencedirect.com/science/article/pii/S0017931021004828?via%3Dihub).   
 R. Masri, C. Puelz, B. Riviere.   
-*International Journal of Heat and Mass Transfer*, 2021. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587).-->  
+*International Journal of Heat and Mass Transfer*, 176, 2021. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587).-->  
 - A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.   
 R. Masri, C. Puelz, B. Riviere.   
 *Communications on Applied Mathematics and Computation*, 2021.  
 - [Models for plasma kinetics during simultaneous therapeutic plasma exchange and extracorporeal membrane oxygenation](https://academic.oup.com/imammb/advance-article-abstract/doi/10.1093/imammb/dqab003/6149285?redirectedFrom=fulltext).     
 C. Puelz, Z. Danial, J. Marinaro, J.S. Raval, B.E. Griffith, C.S. Peskin.     
-*Mathematical Medicine and Biology*, 2021. <!--[link-to-arXiv:2006.06100](https://arxiv.org/abs/2006.06100).-->   
+*Mathematical Medicine and Biology*, 38(2), pp. 255-271, 2021. <!--[link-to-arXiv:2006.06100](https://arxiv.org/abs/2006.06100).-->   
 - [A physiological model of the inflammatory-thermal-pain-cardiovascular interactions during an endotoxin challenge](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP280883).   
 A. Dobreva, R. Brady, K. Larripa, C. Puelz, J. Mehlsen, and M. Olufsen.   
 *Journal of Physiology*, 599(5), pp. 1459-1485, 2021.   
