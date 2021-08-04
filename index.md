@@ -5,7 +5,7 @@ submitted, 2021.
 - [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://www.sciencedirect.com/science/article/pii/S0017931021004828?via%3Dihub).   
 R. Masri, C. Puelz, B. Riviere.   
 *International Journal of Heat and Mass Transfer*, 176, 2021. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587).-->  
-- A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.   
+- [A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks](https://link.springer.com/article/10.1007/s42967-021-00126-5).   
 R. Masri, C. Puelz, B. Riviere.   
 *Communications on Applied Mathematics and Computation*, 2021.  
 - [Models for plasma kinetics during simultaneous therapeutic plasma exchange and extracorporeal membrane oxygenation](https://academic.oup.com/imammb/advance-article-abstract/doi/10.1093/imammb/dqab003/6149285?redirectedFrom=fulltext).     
