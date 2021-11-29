@@ -1,5 +1,5 @@
-## Publications and preprints
-- [Computer models for studying interventions used in treating refractory pulmonary hypertension](https://arxiv.org/abs/2101.12191).   
+## Publications and preprints  
+- [Computer simulation of surgical interventions for the treatment of refractory pulmonary hypertension](https://arxiv.org/abs/2101.12191).   
 S.W. Han, C. Puelz, C.G. Rusin, D.J. Penny, R. Coleman, C.S. Peskin.   
 submitted, 2021.
 - [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://www.sciencedirect.com/science/article/pii/S0017931021004828?via%3Dihub).   
