@@ -1,4 +1,7 @@
 ## Publications and preprints
+- Optimal fenestration of the Fontan circulation.    
+Z. Ahmad, L.H. Jin, D.J. Penny, C. Rusin, C.S. Peskin, C. Puelz.     
+submitted, 2022.  
 - Simulating liquid-gas interfaces and moving contact lines with the immersed boundary method.  
 M.Y. Li, D. Chin, C. Puelz, P. Sanaei.   
 submitted, 2022.  
