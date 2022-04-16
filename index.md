@@ -1,4 +1,7 @@
 ## Publications and preprints
+- Semi-automated construction of patient-specific aortic valve geometries from computed tomography angiography data.       
+D. Lior, C. Puelz, C. Edwards, S. Molossi, B. Griffith, R. Birla, C. Rusin        
+submitted, 2022.    
 - [Optimal fenestration of the Fontan circulation](https://arxiv.org/abs/2202.01104).     
 Z. Ahmad, L.H. Jin, D.J. Penny, C. Rusin, C.S. Peskin, C. Puelz.     
 submitted, 2022.  
