@@ -7,7 +7,7 @@ Z. Ahmad, L.H. Jin, D.J. Penny, C. Rusin, C.S. Peskin, C. Puelz.
 submitted, 2022.  
 - Simulating liquid-gas interfaces and moving contact lines with the immersed boundary method.  
 M.Y. Li, D. Chin, C. Puelz, P. Sanaei.   
-submitted, 2022.  
+*Physics of Fluids*, 2022.  
 - [Computer simulation of surgical interventions for the treatment of refractory pulmonary hypertension](https://arxiv.org/abs/2101.12191).   
 S.W. Han, C. Puelz, C.G. Rusin, D.J. Penny, R. Coleman, C.S. Peskin.   
 submitted, 2021.
