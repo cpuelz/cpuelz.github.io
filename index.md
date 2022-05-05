@@ -1,11 +1,11 @@
 ## Publications and preprints  
-- **Fluid–structure interaction model of transcatheter aortic valve replacement in a patient-specific aortic root.**  
+- **Fluid–structure interaction model of transcatheter aortic valve replacement in a patient-specific aortic root.**   
 J.A. Brown, J.H. Lee, M.A. Smith, D.R. Wells, A. Barrett, C. Puelz, J.P. Vavalle, B.E. Griffith    
 submitted, 2022.  
-- Semi-automated construction of patient-specific aortic valve geometries from computed tomography angiography data.       
+- **Semi-automated construction of patient-specific aortic valve geometries from computed tomography angiography data.**         
 D. Lior, C. Puelz, C. Edwards, S. Molossi, B. Griffith, R. Birla, C. Rusin        
 submitted, 2022.    
-- [Optimal fenestration of the Fontan circulation](https://arxiv.org/abs/2202.01104).     
+- **[Optimal fenestration of the Fontan circulation](https://arxiv.org/abs/2202.01104)**.        
 Z. Ahmad, L.H. Jin, D.J. Penny, C. Rusin, C.S. Peskin, C. Puelz.     
 submitted, 2022.  
 - Simulating liquid-gas interfaces and moving contact lines with the immersed boundary method.  
