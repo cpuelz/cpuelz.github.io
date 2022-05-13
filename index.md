@@ -7,7 +7,7 @@ D. Lior, C. Puelz, C. Edwards, S. Molossi, B. Griffith, R. Birla, C. Rusin
 submitted, 2022.    
 - [Optimal fenestration of the Fontan circulation](https://arxiv.org/abs/2202.01104).        
 Z. Ahmad, L.H. Jin, D.J. Penny, C. Rusin, C.S. Peskin, C. Puelz.     
-Frontiers in Physiology-Computational Physiology and Medicine, 2022.  
+*Frontiers in Physiology-Computational Physiology and Medicine*, 2022.  
 - Simulating liquid-gas interfaces and moving contact lines with the immersed boundary method.    
 M.Y. Li, D. Chin, C. Puelz, P. Sanaei.   
 *Physics of Fluids*, 2022.  
