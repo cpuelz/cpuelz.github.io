@@ -1,4 +1,7 @@
-## Publications and preprints  
+## Publications and preprints
+- A computational study of aortic reconstruction in single ventricle patients.  
+A.M. Taylor-LaPole, M.J. Colebank, J. Weigand, M.S. Olufsen, C. Puelz  
+submitted, 2022.  
 - Fluid–structure interaction model of transcatheter aortic valve replacement in a patient-specific aortic root.  
 J.A. Brown, J.H. Lee, M.A. Smith, D.R. Wells, A. Barrett, C. Puelz, J.P. Vavalle, B.E. Griffith    
 submitted, 2022.  
