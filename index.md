@@ -11,9 +11,9 @@ submitted, 2022.
 - [Optimal fenestration of the Fontan circulation](https://arxiv.org/abs/2202.01104).        
 Z. Ahmad, L.H. Jin, D.J. Penny, C. Rusin, C.S. Peskin, C. Puelz.     
 *Frontiers in Physiology-Computational Physiology and Medicine*, 2022.  
-- Simulating liquid-gas interfaces and moving contact lines with the immersed boundary method.    
+- [Simulating liquid-gas interfaces and moving contact lines with the immersed boundary method](https://aip.scitation.org/doi/10.1063/5.0086452).       
 M.Y. Li, D. Chin, C. Puelz, P. Sanaei.   
-*Physics of Fluids*, 2022.  
+*Physics of Fluids*, 34(5), 2022.  
 - [Computer simulation of surgical interventions for the treatment of refractory pulmonary hypertension](https://arxiv.org/abs/2101.12191).     
 S.W. Han, C. Puelz, C.G. Rusin, D.J. Penny, R. Coleman, C.S. Peskin.   
 submitted, 2021.
