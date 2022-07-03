@@ -8,9 +8,9 @@ submitted, 2022.
 - Semi-automated construction of patient-specific aortic valve geometries from computed tomography angiography data.         
 D. Lior, C. Puelz, C. Edwards, S. Molossi, B. Griffith, R. Birla, C. Rusin        
 submitted, 2022.    
-- [Optimal fenestration of the Fontan circulation](https://arxiv.org/abs/2202.01104).        
+- [Optimal fenestration of the Fontan circulation](https://www.frontiersin.org/articles/10.3389/fphys.2022.867995/full).        
 Z. Ahmad, L.H. Jin, D.J. Penny, C. Rusin, C.S. Peskin, C. Puelz.     
-*Frontiers in Physiology-Computational Physiology and Medicine*, 2022.  
+*Frontiers in Physiology*, 13, 2022.  
 - [Simulating liquid-gas interfaces and moving contact lines with the immersed boundary method](https://aip.scitation.org/doi/10.1063/5.0086452).       
 M.Y. Li, D. Chin, C. Puelz, P. Sanaei.   
 *Physics of Fluids*, 34(5), 2022.  
