@@ -4,7 +4,7 @@ A.M. Taylor-LaPole, M.J. Colebank, J. Weigand, M.S. Olufsen, C. Puelz
 submitted, 2022.  
 - Semi-automated construction of patient-specific aortic valve geometries from computed tomography angiography data.         
 D. Lior, C. Puelz, C. Edwards, S. Molossi, B. Griffith, R. Birla, C. Rusin        
-submitted, 2022.    
+*Annals of Biomedical Engineering*, 2022.    
 - Fluid–structure interaction model of transcatheter aortic valve replacement in a patient-specific aortic root.  
 J.A. Brown, J.H. Lee, M.A. Smith, D.R. Wells, A. Barrett, C. Puelz, J.P. Vavalle, B.E. Griffith    
 *Annals of Biomedical Engineering*, 2022.  
