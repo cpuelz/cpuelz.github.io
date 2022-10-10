@@ -2,7 +2,7 @@
 - [A computational study of aortic reconstruction in single ventricle patients](http://arxiv.org/abs/2205.10206).  
 A.M. Taylor-LaPole, M.J. Colebank, J. Weigand, M.S. Olufsen, C. Puelz  
 submitted, 2022.  
-- Semi-automated construction of patient-specific aortic valve geometries from computed tomography angiography data.         
+- [Semi-automated construction of patient-specific aortic valve geometries from computed tomography angiography data](https://link.springer.com/article/10.1007/s10439-022-03075-z).           
 D. Lior, C. Puelz, C. Edwards, S. Molossi, B. Griffith, R. Birla, C. Rusin        
 *Annals of Biomedical Engineering*, 2022.    
 - Fluid–structure interaction model of transcatheter aortic valve replacement in a patient-specific aortic root.  
