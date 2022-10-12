@@ -1,7 +1,7 @@
 ## Publications and preprints
 - [A computational study of aortic reconstruction in single ventricle patients](http://arxiv.org/abs/2205.10206).  
 A.M. Taylor-LaPole, M.J. Colebank, J. Weigand, M.S. Olufsen, C. Puelz  
-submitted, 2022.  
+*Biomechanics and Modeling in Mechanobiology*, 2022.  
 - [Semi-automated construction of patient-specific aortic valves from computed tomography images](https://link.springer.com/article/10.1007/s10439-022-03075-z).           
 D. Lior, C. Puelz, C. Edwards, S. Molossi, B. Griffith, R. Birla, C. Rusin        
 *Annals of Biomedical Engineering*, 2022.    
