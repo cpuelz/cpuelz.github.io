@@ -5,7 +5,7 @@ A.M. Taylor-LaPole, M.J. Colebank, J. Weigand, M.S. Olufsen, C. Puelz
 - [Semi-automated construction of patient-specific aortic valves from computed tomography images](https://link.springer.com/article/10.1007/s10439-022-03075-z).           
 D. Lior, C. Puelz, C. Edwards, S. Molossi, B. Griffith, R. Birla, C. Rusin        
 *Annals of Biomedical Engineering*, 2022.    
-- Fluid–structure interaction model of transcatheter aortic valve replacement in a patient-specific aortic root.  
+- [Fluid–structure interaction model of transcatheter aortic valve replacement in a patient-specific aortic root](https://link.springer.com/article/10.1007/s10439-022-03047-3).  
 J.A. Brown, J.H. Lee, M.A. Smith, D.R. Wells, A. Barrett, C. Puelz, J.P. Vavalle, B.E. Griffith    
 *Annals of Biomedical Engineering*, 2022.  
 - [Optimal fenestration of the Fontan circulation](https://www.frontiersin.org/articles/10.3389/fphys.2022.867995/full).        
