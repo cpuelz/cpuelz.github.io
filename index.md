@@ -1,4 +1,7 @@
 ## Publications and preprints
+- Predicting the effects of surgically determined parameters on exercise tolerance in Fontan patients.      
+C. Kritpracha, B. Riviere, C. Puelz.    
+*submitted*, 2023.     
 - Simulating cardiac fluid dynamics in the human heart.    
 M. Davey, C. Puelz, S. Rossi, M.A. Smith, D.R. Wells, G. Sturgeon, P. Segars, J.P. Vavalle, C.S. Peskin, B.E. Griffith        
 *submitted*, 2023.     
