@@ -1,4 +1,7 @@
 ## Publications and preprints
+- A computational framework for generating patient-specific vascular models and assessing uncertainty from medical images.     
+M.A. Bartolo, A.M. Taylor-LaPole, D. Gandhi, A. Johnson, Y. Li, E. Slack, I. Stevens, Z. Turner, J. Weigand, C. Puelz, D. Husmeier, M.S. Olufsen.      
+*submitted*, 2023.     
 - Predicting the effects of surgically determined parameters on exercise tolerance in Fontan patients.      
 C. Kritpracha, B. Riviere, C. Puelz.    
 *submitted*, 2023.     
