@@ -1,4 +1,7 @@
 ## Publications and preprints
+- Deformable registration of MRA images with 4D Flow images to facilitate accurate estimation of flow properties within blood vessels.      
+D.U. Lior, C. Puelz, J. Weigand, K.V. Montez, Y. Wang, S. Molossi, D.J. Penny, C.G. Rusin.      
+*submitted*, 2023.      
 - [A computational framework for generating patient-specific vascular models and assessing uncertainty from medical images](https://arxiv.org/abs/2309.08779).     
 M.A. Bartolo, A.M. Taylor-LaPole, D. Gandhi, A. Johnson, Y. Li, E. Slack, I. Stevens, Z. Turner, J. Weigand, C. Puelz, D. Husmeier, M.S. Olufsen.      
 *submitted*, 2023.     
