@@ -7,7 +7,7 @@ M.A. Bartolo, A.M. Taylor-LaPole, D. Gandhi, A. Johnson, Y. Li, E. Slack, I. Ste
 *submitted*, 2023.     
 - Predicting the effects of surgically determined parameters on exercise tolerance in Fontan patients.      
 C. Kritpracha, B. Riviere, C. Puelz.    
-*submitted*, 2023.     
+*Medical Engineering and Physics*, 2024.     
 - [Simulating cardiac fluid dynamics in the human heart](https://arxiv.org/abs/2307.02680).    
 M. Davey, C. Puelz, S. Rossi, M.A. Smith, D.R. Wells, G. Sturgeon, P. Segars, J.P. Vavalle, C.S. Peskin, B.E. Griffith        
 *submitted*, 2023.     
