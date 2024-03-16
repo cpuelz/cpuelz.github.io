@@ -5,7 +5,7 @@ D.U. Lior, C. Puelz, J. Weigand, K.V. Montez, Y. Wang, S. Molossi, D.J. Penny, C
 - [A computational framework for generating patient-specific vascular models and assessing uncertainty from medical images](https://arxiv.org/abs/2309.08779).     
 M.A. Bartolo, A.M. Taylor-LaPole, D. Gandhi, A. Johnson, Y. Li, E. Slack, I. Stevens, Z. Turner, J. Weigand, C. Puelz, D. Husmeier, M.S. Olufsen.      
 *submitted*, 2023.     
-- Predicting the effects of surgically determined parameters on exercise tolerance in Fontan patients.      
+- [Predicting the effects of surgically determined parameters on exercise tolerance in Fontan patients](https://doi.org/10.1016/j.medengphy.2024.104152).             
 C. Kritpracha, B. Riviere, C. Puelz.    
 *Medical Engineering and Physics*, 2024.     
 - [Simulating cardiac fluid dynamics in the human heart](https://arxiv.org/abs/2307.02680).    
