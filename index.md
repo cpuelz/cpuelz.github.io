@@ -1,4 +1,7 @@
 ## Publications and preprints
+- [Fluid-structure interaction simulations for the prediction of fractional flow reserve in pediatric patients with anomalous aortic origin of a coronary artery](https://arxiv.org/abs/2405.01703).       
+C. Puelz, C.G. Rusin, D. Lior, S. Sachdeva, T.T. Doan, L.F. Eilers, D. Reaves-O'Neal, S. Molossi.      
+*preprint*, 2024.       
 - [Deformable registration of MRA images with 4D Flow images to facilitate accurate estimation of flow properties within blood vessels](https://arxiv.org/abs/2312.03116).             
 D.U. Lior, C. Puelz, J. Weigand, K.V. Montez, Y. Wang, S. Molossi, D.J. Penny, C.G. Rusin.      
 *submitted*, 2023.      
