@@ -1,4 +1,7 @@
 ## Publications and preprints
+- Anomalous Aortic Origin of a Coronary Artery in Pediatric Patients.     
+T. Doan, C. Puelz, C. Rusin, S. Molossi.        
+*submitted*, 2024.     
 - [Fluid-structure interaction simulations for the prediction of fractional flow reserve in pediatric patients with anomalous aortic origin of a coronary artery](https://arxiv.org/abs/2405.01703).       
 C. Puelz, C.G. Rusin, D. Lior, S. Sachdeva, T.T. Doan, L.F. Eilers, D. Reaves-O'Neal, S. Molossi.      
 *submitted*, 2024.       
