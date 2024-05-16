@@ -1,22 +1,23 @@
 ## Publications and preprints
-- Anomalous Aortic Origin of a Coronary Artery in Pediatric Patients.     
-T. Doan, C. Puelz, C. Rusin, S. Molossi.        
-*submitted*, 2024.     
 - [Fluid-structure interaction simulations for the prediction of fractional flow reserve in pediatric patients with anomalous aortic origin of a coronary artery](https://arxiv.org/abs/2405.01703).       
 C. Puelz, C.G. Rusin, D. Lior, S. Sachdeva, T.T. Doan, L.F. Eilers, D. Reaves-O'Neal, S. Molossi.      
 *submitted*, 2024.       
 - [Deformable registration of MRA images with 4D Flow images to facilitate accurate estimation of flow properties within blood vessels](https://arxiv.org/abs/2312.03116).             
 D.U. Lior, C. Puelz, J. Weigand, K.V. Montez, Y. Wang, S. Molossi, D.J. Penny, C.G. Rusin.      
 *submitted*, 2023.      
-- [A computational framework for generating patient-specific vascular models and assessing uncertainty from medical images](https://arxiv.org/abs/2309.08779).     
-M.A. Bartolo, A.M. Taylor-LaPole, D. Gandhi, A. Johnson, Y. Li, E. Slack, I. Stevens, Z. Turner, J. Weigand, C. Puelz, D. Husmeier, M.S. Olufsen.      
+- [Computational framework for the generation of one-dimensional vascular models accounting for uncertainty in networks extracte\
+d from medical images](https://arxiv.org/abs/2309.08779).     
+M.A. Bartolo, A.M. Taylor-LaPole, D. Gandhi, A. Johnson, Y. Li, E. Slack, I. Stevens, Z. Turner, C. Puelz, D. Husmeier, M.S. Olufsen.      
 *submitted*, 2023.     
-- [Predicting the effects of surgically determined parameters on exercise tolerance in Fontan patients](https://doi.org/10.1016/j.medengphy.2024.104152).             
-C. Kritpracha, B. Riviere, C. Puelz.    
-*Medical Engineering and Physics*, 2024.     
 - [Simulating cardiac fluid dynamics in the human heart](https://arxiv.org/abs/2307.02680).    
 M. Davey, C. Puelz, S. Rossi, M.A. Smith, D.R. Wells, G. Sturgeon, P. Segars, J.P. Vavalle, C.S. Peskin, B.E. Griffith        
 *submitted*, 2023.     
+- Anomalous Aortic Origin of a Coronary Artery in Pediatric Patients.     
+T. Doan, C. Puelz, C. Rusin, S. Molossi.        
+*Current Pediatrics Reports*, 2024.     
+- [Predicting the effects of surgically determined parameters on exercise tolerance in Fontan patients](https://doi.org/10.1016/j.medengphy.2024.104152).             
+C. Kritpracha, B. Riviere, C. Puelz.    
+*Medical Engineering and Physics*, 2024.     
 - [A computational study of aortic reconstruction in single ventricle patients](https://link.springer.com/article/10.1007/s10237-022-01650-w).   
 A.M. Taylor-LaPole, M.J. Colebank, J. Weigand, M.S. Olufsen, C. Puelz  
 *Biomechanics and Modeling in Mechanobiology*, 2022.  
