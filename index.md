@@ -12,7 +12,7 @@ M.A. Bartolo, A.M. Taylor-LaPole, D. Gandhi, A. Johnson, Y. Li, E. Slack, I. Ste
 - [Simulating cardiac fluid dynamics in the human heart](https://arxiv.org/abs/2307.02680).    
 M. Davey, C. Puelz, S. Rossi, M.A. Smith, D.R. Wells, G. Sturgeon, P. Segars, J.P. Vavalle, C.S. Peskin, B.E. Griffith        
 *submitted*, 2023.     
-- [Anomalous Aortic Origin of a Coronary Artery in Pediatric Patients](https://link.springer.com/article/10.1007/s40124-024-00317-7).     
+- [Anomalous aortic origin of a coronary artery in pediatric patients](https://link.springer.com/article/10.1007/s40124-024-00317-7).     
 T. Doan, C. Puelz, C. Rusin, S. Molossi.        
 *Current Pediatrics Reports*, 2024.     
 - [Predicting the effects of surgically determined parameters on exercise tolerance in Fontan patients](https://doi.org/10.1016/j.medengphy.2024.104152).             
