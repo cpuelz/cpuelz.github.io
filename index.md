@@ -1,5 +1,5 @@
 ## Publications and preprints
-- Parameter selection and optimization of a computational network model of blood flow in single-ventricle patients.       
+- [Parameter selection and optimization of a computational network model of blood flow in single-ventricle patients](https://arxiv.org/abs/2406.18490).              
 A.M. Taylor-LaPole, L.M. Paun, D. Lior, J.D. Weigand, C. Puelz, M.S. Olufsen       
 - [Fluid-structure interaction simulations for the prediction of fractional flow reserve in pediatric patients with anomalous aortic origin of a coronary artery](https://arxiv.org/abs/2405.01703).       
 C. Puelz, C.G. Rusin, D. Lior, S. Sachdeva, T.T. Doan, L.F. Eilers, D. Reaves-O'Neal, S. Molossi.      
